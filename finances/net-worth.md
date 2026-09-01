@@ -5,9 +5,14 @@ the rate used if source amounts are in another currency).
 
 | Date | Assets (QAR) | Liabilities (QAR) | Net worth (QAR) | Notes |
 |------|---------------|--------------------|-------------------|-------|
+| 2026-09-01 | 54,226.73 | 0 | 54,226.73 | Approximate: PKR converted at ~76.05 PKR/QAR (derived from the 2026-09-01 remittance, not a live market rate). No liabilities tracked yet. See breakdown below. |
 
-_See `finances/investments.md` for the PSX stock portfolio (PKR 420,315.60
-current value as of 2026-09-01) and `finances/accounts.md` for bank/cash
-balances (HBL Pakistan: PKR 631,714 as of 2026-09-01) — not yet folded
-into a single QAR net worth figure since not all accounts/assets are
-tracked here yet._
+## Breakdown (2026-09-01)
+
+- CBQ Current: 8,851.77 QAR
+- CBQ Savings: 31,540.96 QAR
+- HBL (Pakistan): 631,714 PKR ≈ 8,306.98 QAR
+- PSX investments (current value): 420,315.60 PKR ≈ 5,527.02 QAR
+
+_See `finances/investments.md` for the full PSX stock portfolio and
+`finances/accounts.md` for the account-level PKR/QAR balances._
