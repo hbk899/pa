@@ -42,6 +42,7 @@ grounded advice based on what's actually recorded (never invent numbers).
 - `finances/budget.md` — monthly budget targets by category, per currency
 - `finances/net-worth.md` — periodic net worth snapshots (assets - liabilities)
 - `finances/accounts.md` — dated bank/cash account balance snapshots, per account and currency
+- `finances/liabilities.md` — dated snapshots of debts/credit balances owed (credit cards, loans)
 - `finances/investments.md` — dated stock/investment portfolio snapshots
 - `finances/reminders.md` — recurring/one-time/weekly reminders to raise proactively in chat
 - `goals/goals.md` — active goals (financial, career, personal), with target dates
