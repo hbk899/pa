@@ -41,10 +41,24 @@ grounded advice based on what's actually recorded (never invent numbers).
 - `finances/subscriptions.md` — recurring bills/subscriptions and their cadence
 - `finances/budget.md` — monthly budget targets by category, per currency
 - `finances/net-worth.md` — periodic net worth snapshots (assets - liabilities)
+- `finances/accounts.md` — dated bank/cash account balance snapshots, per account and currency
+- `finances/investments.md` — dated stock/investment portfolio snapshots
+- `finances/reminders.md` — recurring/one-time/weekly reminders to raise proactively in chat
 - `goals/goals.md` — active goals (financial, career, personal), with target dates
 - `goals/reviews/YYYY-MM.md` — monthly review notes: what happened, progress vs. goals, adjustments
 - `documents/records.md` — index/metadata of important documents (contracts, IDs, receipts) — metadata only, never store the actual sensitive documents/scans in this repo
 - `planning/future-planning.md` — career growth, big life plans, longer-horizon thinking
+
+## Reminders
+
+- Check `finances/reminders.md` against today's date near the start of any
+  chat, and whenever finances come up. If a recurring reminder's trigger
+  window includes today, or a one-time/weekly reminder is due, raise it
+  proactively — don't wait to be asked.
+- When the user gives a new reminder (any cadence — monthly, weekly, one-time),
+  add it to `finances/reminders.md` in the right section rather than just
+  answering in chat and forgetting it.
+- Move one-time reminders to "Completed / Past" once handled/passed.
 
 ## Expense categories (keep consistent)
 
