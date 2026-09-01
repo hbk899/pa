@@ -7,5 +7,7 @@ the rate used if source amounts are in another currency).
 |------|---------------|--------------------|-------------------|-------|
 
 _See `finances/investments.md` for the PSX stock portfolio (PKR 420,315.60
-current value as of 2026-09-01) — not yet folded into a QAR net worth
-figure since bank balances/other assets aren't tracked here yet._
+current value as of 2026-09-01) and `finances/accounts.md` for bank/cash
+balances (HBL Pakistan: PKR 631,714 as of 2026-09-01) — not yet folded
+into a single QAR net worth figure since not all accounts/assets are
+tracked here yet._
