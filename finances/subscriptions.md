@@ -5,9 +5,9 @@ paid" date as you go.
 
 | Name | Amount | Currency | Cadence | Due day | Last paid | Notes |
 |------|--------|----------|---------|---------|-----------|-------|
-| Rent | 3800 | QAR | Monthly | | | |
-| Home internet (Vodafone) | ~280 | QAR | Monthly | | 2026-09-01 | Paid via card. Amount varies month to month (95.67 QAR on 2026-07-31, 280 QAR on 2026-09-01) - worth checking why |
-| Mobile (Ooredoo) | 105 | QAR | Monthly | | | Card statement shows an "Ooredoo CC bill payment" of 52.5 QAR on 2026-08-06 - doesn't match 105, worth checking |
+| Rent | 3800 | QAR | Monthly | | 2026-08-05 | Paid via QIIB cheque. Was a direct bank transfer to landlord (Muhammad Usman Zafar) at 3000 QAR (Mar, incl. deposit) and 2600 QAR (Apr) before switching to the 3800 QAR cheque arrangement in May |
+| Home internet (Vodafone) | 280 | QAR | Monthly | | 2026-09-01 | Paid via card. Lower amounts before (95.67 QAR Jul) were a promotional offer; full 280 QAR rate applies from September |
+| Mobile (Ooredoo) | 105 | QAR | Monthly | | | Also had a promotional offer previously (lower amounts on card statement); full 105 QAR rate applies from September |
 | Father remittance | 315000 | PKR | Monthly | | 2026-09-01 | Usual monthly transfer to father |
 
 ## Completed
