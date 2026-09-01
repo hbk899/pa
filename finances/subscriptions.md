@@ -10,6 +10,15 @@ paid" date as you go.
 | Mobile (Ooredoo) | 105 | QAR | Monthly | | | Also had a promotional offer previously (lower amounts on card statement); full 105 QAR rate applies from September |
 | Father remittance | 315000 | PKR | Monthly | | 2026-09-01 | Usual monthly transfer to father |
 
+## Prepaid / Irregular
+
+Not monthly - paid upfront for multiple months at a time. Track the last
+payment and expected coverage so a renewal doesn't get missed.
+
+| Name | Amount | Currency | Covers | Last paid | Notes |
+|------|--------|----------|--------|-----------|-------|
+| Kerala Fitness (gym) | 399 | QAR | ~4 months (Jul-Oct 2026) | 2026-07-04 | Buys multi-month passes rather than paying monthly; renewal expected around November 2026 |
+
 ## Completed
 
 | Name | Amount | Currency | Cadence | Notes |

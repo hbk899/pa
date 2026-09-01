@@ -13,7 +13,9 @@ or whenever finances come up. Add new reminders anytime, any cadence.
 
 ## One-time
 
-_(none yet)_
+| Name | Target date | Reminder | Notes |
+|------|-------------|----------|-------|
+| Kerala Fitness renewal | ~2026-11-01 | Gym pass (399 QAR, paid 2026-07-04) covers ~4 months (Jul-Oct) - check if renewal is due | See `finances/subscriptions.md` Prepaid section |
 
 ## Weekly
 
