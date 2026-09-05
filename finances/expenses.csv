@@ -164,6 +164,7 @@ date,category,amount,currency,notes
 2026-06-18,shopping,1592,QAR,Al Anees Electronics - recurring 1592 QAR/month charge, likely installment plan (card)
 2026-08-23,groceries,8,QAR,Arabian Supermarket (CBQ Current)
 2026-08-05,housing,3800,QAR,Rent cheque (CBQ Current)
+2026-09-05,housing,3800,QAR,Rent cheque #1000004 (CBQ Current) - cleared cleanly, no bounce
 2026-07-31,family/remittance,10003,QAR,Sent to Pakistan via Ooredoo Money (CBQ Current, PKR amount not confirmed)
 2026-07-05,housing,3800,QAR,Rent cheque (CBQ Current)
 2026-07-05,family/remittance,6003,QAR,Sent to Pakistan via Ooredoo Money (CBQ Current, PKR amount not confirmed)

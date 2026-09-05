@@ -11,3 +11,9 @@ see balances trend over time.
 | HBL (Pakistan) | PKR | 631,714 | |
 | CBQ Current | QAR | 8,851.77 | Rent cheque (3800 QAR) clears from this account on the 5th |
 | CBQ Savings | QAR | 31,540.96 | Name is "Savings" per CBQ's account structure, not a separate goal-based savings pot |
+
+## Snapshot: 2026-09-05
+
+| Account | Currency | Balance | Notes |
+|---------|----------|---------|-------|
+| CBQ Current | QAR | 5,051.77 | After September rent cheque #1000004 (3800 QAR) cleared cleanly |
